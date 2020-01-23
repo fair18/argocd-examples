@@ -131,3 +131,5 @@ fabric.properties
 .idea/sonarlint/
 .idea/vcs.xml
 argocd-examples.iml
+simpleapp/src/main/resources/static/
+simpleapp/src/main/resources/templates/
